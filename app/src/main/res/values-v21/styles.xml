@@ -6,4 +6,10 @@
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
+
+
+    <style name="FacebookButtonStyle" parent="Widget.AppCompat.Button.Colored">
+        <item name="android:colorAccent">#3A5798</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
 </resources>

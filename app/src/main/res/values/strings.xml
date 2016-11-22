@@ -5,4 +5,20 @@
     </string>
     <string name="login_screen_title"><![CDATA[Login & Start Fact Checking]]></string>
     <string name="login_facebook">Login with Facebook</string>
+    <string name="login_twitter">Login with Twitter</string>
+    <string name="login_github">Login with Github</string>
+    <string name="login_google">Login with Google</string>
+    <string name="profile_activity_title">Profile</string>
+    <string name="action_profile">Profile</string>
+    <string name="action_quit">Quit</string>
+
+    <array name="color_list">
+        <item>#F6BC4A</item>
+        <item>#3476E1</item>
+        <item>#90AD3B</item>
+        <item>#ca4a45</item>
+        <item>#122252</item>
+        <item>#64b792</item>
+    </array>
+
 </resources>
