@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fact Check</string>
+    <string name="action_settings">Settings</string>
+    <string name="bottom_license">All the designs and code in this app are open source and can be reused, everything is developed and designed by Divyanshu Negi
+    </string>
+    <string name="login_screen_title"><![CDATA[Login & Start Fact Checking]]></string>
+    <string name="login_facebook">Login with Facebook</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#81b6e1</color>
+    <color name="colorPrimaryDark">#699bc0</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="headlineColor">#646464</color>
+    <color name="bottomLicenseColor">#AAAAAA</color>
+</resources>
