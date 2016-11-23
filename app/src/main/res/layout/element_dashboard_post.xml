@@ -7,11 +7,55 @@
     android:layout_height="wrap_content"
     app:cardBackgroundColor="#F6BC4A">
 
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#F6BC4A"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="150dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_margin="10dp"
+            android:textColor="#fff"
+            android:shadowRadius="1"
+            android:shadowDy="1"
+            android:shadowDx="1"
+            android:textSize="24sp"
+            android:text="Donal Trump to come to India and congratulate Modi"
+            />
+
+
+    </RelativeLayout>
 
     <LinearLayout
         android:layout_width="match_parent"
-        android:layout_height="100dp"
-        android:background="#F6BC4A"></LinearLayout>
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="2">
 
+        <Button
+            android:layout_width="0dp"
+            android:backgroundTint="@color/colorPrimary"
+            android:textColor="#fff"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="True (0%)"/>
 
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:backgroundTint="#de266b"
+            android:textColor="#fff"
+            android:layout_height="wrap_content"
+            android:text="Fake (100%)"/>
+
+    </LinearLayout>
+
+</LinearLayout>
 </android.support.v7.widget.CardView>
