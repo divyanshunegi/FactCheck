@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "555643707747",
+    "firebase_url": "https://factcheck-f69e4.firebaseio.com",
+    "project_id": "factcheck-f69e4",
+    "storage_bucket": "factcheck-f69e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555643707747:android:1344ae56a2dc2958",
+        "android_client_info": {
+          "package_name": "com.android.factcheck"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555643707747-pu80m73oaajb804ebhl1aa634g8c8n9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.factcheck",
+            "certificate_hash": "ABD6459735E59721A8930DFD4B89008AF3D50C3A"
+          }
+        },
+        {
+          "client_id": "555643707747-4gjfqvfcbrui3lco2v04ue89fob42njo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbtzDJj5ZukIgGGEH0EtJ6pqHXV5unVhM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555643707747-4gjfqvfcbrui3lco2v04ue89fob42njo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

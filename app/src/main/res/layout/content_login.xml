@@ -32,9 +32,17 @@
         android:layout_height="wrap_content"
         android:orientation="vertical">
 
-        <Button
+        <com.facebook.login.widget.LoginButton
             android:id="@+id/facebookLoginButton"
-            android:onClick="loginWithFacebook"
+            android:layout_width="match_parent"
+            android:layout_margin="12dp"
+            android:textSize="16sp"
+            android:padding="10dp"
+            android:layout_height="wrap_content" />
+
+        <Button
+            android:visibility="gone"
+            android:id="@+id/facebookLoginButton2"
             android:layout_width="match_parent"
             android:backgroundTint="#3A5798"
             android:textColor="#fff"

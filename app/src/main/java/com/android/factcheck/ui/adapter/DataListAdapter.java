@@ -14,6 +14,7 @@ import java.util.List;
  * Created by divyanshunegi on 11/23/16.
  * Project : FactCheck
  */
+
 public class DataListAdapter  extends RecyclerView.Adapter<DataListAdapter.MyViewHolder> {
 
     private List<FeedDataModel> mFeedData;

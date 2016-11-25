@@ -11,6 +11,8 @@
     <string name="profile_activity_title">Profile</string>
     <string name="action_profile">Profile</string>
     <string name="action_quit">Quit</string>
+    <string name="facebook_app_id">683546898492039</string>
+    <string name="fb_login_protocol_scheme">fb683546898492039</string>
 
     <array name="color_list">
         <item>#F6BC4A</item>
