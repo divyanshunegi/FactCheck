@@ -52,7 +52,18 @@
             android:layout_height="wrap_content"
             android:text="@string/login_facebook"/>
 
+        <com.twitter.sdk.android.core.identity.TwitterLoginButton
+            android:id="@+id/twitter_login_button"
+            android:layout_width="match_parent"
+            android:layout_margin="12dp"
+            android:textSize="16sp"
+            android:padding="10dp"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"/>
+
+
         <Button
+            android:visibility="gone"
             android:id="@+id/twitterLoginButton"
             android:onClick="loginWithTwitter"
             android:layout_width="match_parent"
