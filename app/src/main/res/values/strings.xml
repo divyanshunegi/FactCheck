@@ -11,11 +11,11 @@
     <string name="profile_activity_title">Profile</string>
     <string name="action_profile">Profile</string>
     <string name="action_quit">Quit</string>
-    <string name="facebook_app_id">683546898492039</string>
-    <string name="fb_login_protocol_scheme">fb683546898492039</string>
+    <string name="facebook_app_id">facebook_app_id</string>
+    <string name="fb_login_protocol_scheme">protocol_scheme</string>
 
-    <string name="github_id">4216bc6c35fcb80efcbb</string>
-    <string name="github_secret">f6d8ce0d03cc253f55b562a95051044726179137</string>
+    <string name="github_id">github_id</string>
+    <string name="github_secret">github_secret</string>
 
     <array name="color_list">
         <item>#F6BC4A</item>
